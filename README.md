@@ -21,3 +21,6 @@ Learning how to du git comparision
 File is modified
 
 ## GitHub Rocks!
+
+##Contribution
+Fork it and review
