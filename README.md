@@ -19,3 +19,5 @@ Learning how to du git comparision
 
 ## Github comparision
 File is modified
+
+## GitHub Rocks!
