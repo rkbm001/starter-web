@@ -9,7 +9,10 @@ Sample website with plenty of files for demos
 # Starter Web- Project
 
 ## Introduction
-this is the intro that should be written. 
+This is the intro that should be written. 
 
 ## GIT and GITHUB training
 GIT training is going on...on....on....
+
+## GIT comparision
+Learning how to du git comparision
