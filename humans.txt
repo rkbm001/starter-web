@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+# Doing some changes
 # TEAM
 
     <name> Bob Mueller  <twitter>
@@ -8,7 +9,7 @@
 
 # THANKS
 
-    All my self.
+    All my self. 
 
 # TECHNOLOGY COLOPHON
 
